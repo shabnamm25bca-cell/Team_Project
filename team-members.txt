@@ -1,2 +1,2 @@
-Team Member 1: Shabnam - Repository Manager
-Team Member 2: Team Contributor - Documentation
+Team Member 1: Shabnam - Repository Manager and README
+Team Member 2: Team Contributor - Requirements and Documentation
