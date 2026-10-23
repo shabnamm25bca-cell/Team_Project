@@ -1,0 +1,4 @@
+Project Requirements:
+Git
+GitHub
+Text editor (VS Code)
